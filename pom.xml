@@ -37,6 +37,14 @@
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-mongodb</artifactId>
         </dependency>
+
+        <!-- jUnit 4.12 for unit testing -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+
     </dependencies>
 
     <build>
